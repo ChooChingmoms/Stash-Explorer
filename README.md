@@ -1,7 +1,8 @@
 # Stash Explorer
 
-[![License](https://img.shields.io/github/license/windowslogic/Stash-Explorer)](LICENSE)
+[![License][licenseImage]](LICENSE)
 [![Issues](https://img.shields.io/github/issues/windowslogic/Stash-Explorer)](https://github.com/windowslogic/Stash-Explorer/issues)
+<!-- Alt text: GitHub badge displaying the number of open issues for the Stash Explorer repository, with the text Issues followed by the current count. The badge uses a neutral color scheme and links to the issues page on GitHub. The tone is informative and professional. -->
 [![Pull Requests](https://img.shields.io/github/issues-pr/windowslogic/Stash-Explorer)](https://github.com/windowslogic/Stash-Explorer/pulls)
 
 Stash Explorer adds extra (external) functionality to your Stashapp instance.
@@ -39,3 +40,6 @@ Stash Explorer is made with C# and .NET Framework 4.8. If you want to use it, ju
 ## Want to Help?
 
 If you have ideas to make Stash Explorer better or notice something isn’t working, you can help by letting us know! Click on "Issues" at the top of this page to report a problem or suggest an improvement.
+
+
+[licenseImage]: https://img.shields.io/github/license/windowslogic/Stash-Explorer
